@@ -1,0 +1,25 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Sunday, March 29, 2020
+Project Path:       C:\Users\gabri\Documents\11 Elettronica\DesignSpark\Projects\RF-Lego\RF-Lego\PCB Files\RF-LEGO1.prj
+Design Path:        C:\Users\gabri\Documents\11 Elettronica\DesignSpark\Projects\RF-Lego\RF-Lego\PCB Files\RF-LEGO1.pcb
+Design Title:       
+Created:            14/02/2020 17:21:24
+Last Saved:         29/03/2020 18:36:21
+Editing Time:       2135 min
+Units:              mm (precision 2)
+
+
+Checking integrity of Schematic and Pcb designs in project "RF-LEGO1"
+=====================================================================
+
+
+Warning: Project has more than one version of Component "100pF_0402_50V" ("Filter_Bridge.sch" & "GainBlock_SOT363.sch"). At least one should be reloaded otherwise results may be incorrect.
+Warning: Project has more than one version of Component "GND" ("Filter_Bridge.sch" & "Board2Bridge.sch"). At least one should be reloaded otherwise results may be incorrect.
+Warning: Project has more than one version of Component "100pF_0402_50V" ("Detector.sch" & "GainBlock_SOT363.sch"). At least one should be reloaded otherwise results may be incorrect.
+Warning: Net "RF" uses different net classes "RF" and "Power" on different pages.
+Warning: Net "VCC_5V" uses different net classes "Vcc" and "RF" on different pages.
+
+
+End Of Report.

@@ -1,8 +1,8 @@
 Note PCB
 
-- via non isolati
-- boardo copper pout 0.3mm
-- spessore bordo 0.3mm (tolleranze fresatura)
-- pad SMA non isolate
-- Via nelle PAD di GND dei componenti RF (cap, SMA...)
-- ora ogni circuito ha il board outline---> vanno tolti e ne va messo uno grande tutto intorno
+- via non isolati--done
+- boardo copper pout 0.3mm --done
+- spessore bordo 0.3mm (tolleranze fresatura) --done
+- pad SMA non isolate--done
+- Via nelle PAD di GND dei componenti RF (cap, SMA...)--done
+- ora ogni circuito ha il board outline---> vanno tolti e ne va messo uno grande tutto intorno--done
